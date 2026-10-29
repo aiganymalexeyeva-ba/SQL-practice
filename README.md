@@ -1,6 +1,4 @@
-# SQL-project
-
-## Table of contents 
+# SQL-practice
 
 -[Фильтрация данных (WHERE)](#Фильтрация-данных-(WHERE))
 
@@ -9,8 +7,6 @@
 -[Объединение таблиц (JOIN)](#Объединение-таблиц-(JOIN))
 
 -[Обновление и удаление данных (UPDATE и DELETE)](#Обновление-и-удаление-данных-(UPDATE-и-DELETE))
-
-### Homework made during training
 
 
 ## 1. Фильтрация данных (WHERE)
